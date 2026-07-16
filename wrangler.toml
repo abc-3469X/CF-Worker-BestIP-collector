@@ -1,0 +1,8 @@
+name = "CF-Worker-BestIP-collector"
+main = "src/index.js"
+compatibility_date = "2024-12-18"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "IP_STORAGE"
+id = "1d2a83c1d5a3472d9806b0540582991c"
